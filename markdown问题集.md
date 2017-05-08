@@ -10,22 +10,22 @@ Markdown是一种可以使用普通文本编辑器编写的标记语言，通过
 文本编辑器
 4. MarkDown的编辑工具有哪些？
 >Windows 平台
-•	GitHub Atom
-•	MarkdownPad
-•	MarkPad
+>>•	GitHub Atom
+>>•	MarkdownPad
+>>•	MarkPad
 >Linux 平台
-•	ReText
+>>•	ReText
 >Mac 平台
-•	Mou
+>>•	Mou
 >在线编辑器
-•	Markable.in
-•	Dillinger.io
+>>•	Markable.in
+>>•	Dillinger.io
 >浏览器插件
-•	MaDe (Chrome)
+>>•	MaDe (Chrome)
 >高级应用(Sublime Text 2 + MarkdownEditing 教程)
-•	Sublime Text 2
-•	MarkdownEditing
-•	教程
+>>•	Sublime Text 2
+>>•	MarkdownEditing
+>>•	教程
 5. MarkDown的区块元素和区段元素分别包含哪些？
 >区块元素包含段落与换行、标题、区块引用、列表、代码区块、分隔线；
-区段元素包含链接，强调，代码，图片。
+>区段元素包含链接，强调，代码，图片。
