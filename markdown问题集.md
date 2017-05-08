@@ -9,12 +9,12 @@
 3. MarkDown的用途？
 >文本编辑器
 4. MarkDown的编辑工具有哪些？
->Windows 平台•	GitHub Atom•	MarkdownPad•	MarkPad
->Linux 平台•	ReText
->Mac 平台•	Mou
->在线编辑器•	Markable.in•	Dillinger.io
->浏览器插件•	MaDe (Chrome)
+>Windows 平台•	GitHub Atom•	MarkdownPad•	MarkPad  
+>Linux 平台•	ReText  
+>Mac 平台•	Mou  
+>在线编辑器•	Markable.in•	Dillinger.io  
+>浏览器插件•	MaDe (Chrome)  
 >高级应用(Sublime Text 2 + MarkdownEditing 教程)•	Sublime Text 2•	MarkdownEditing•	教程
 5. MarkDown的区块元素和区段元素分别包含哪些？
->区块元素包含段落与换行、标题、区块引用、列表、代码区块、分隔线；
+>区块元素包含段落与换行、标题、区块引用、列表、代码区块、分隔线；  
 >区段元素包含链接，强调，代码，图片。
